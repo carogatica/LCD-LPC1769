@@ -1,0 +1,394 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                              ./src/LCD-VF.o (SystemInit)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+                              C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/LCD-VF.o
+ .text          0x00000000        0x0 ./src/LCD-VF.o
+ .data          0x00000000        0x0 ./src/LCD-VF.o
+ .bss           0x00000000        0x0 ./src/LCD-VF.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x88c ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0x88c ./src/crp.o
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .group         0x00000000        0x8 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .data          0x00000000        0x0 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0xb4 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .data.SystemCoreClock
+                0x00000000        0x4 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x12d C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x1c C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000       0x18 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x7af C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00000000      0x2c7 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x00000000       0x26 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x00000000      0x174 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_64.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .text.__aeabi_division_idiv0
+                0x00000000        0x2 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000000       0x21 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/LCD-VF.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000      0x608
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x608 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x0 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x608 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000000 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x0 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4      0x144 ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                data_init
+                0x00000138                bss_init
+                0x00000170                ResetISR
+                0x000001e8                NMI_Handler
+                0x000001f0                HardFault_Handler
+                0x000001f8                MemManage_Handler
+                0x00000200                BusFault_Handler
+                0x00000208                UsageFault_Handler
+                0x00000210                SVC_Handler
+                0x00000218                DebugMon_Handler
+                0x00000220                PendSV_Handler
+                0x00000228                SysTick_Handler
+                0x00000230                EINT3_IRQHandler
+                0x00000230                CANActivity_IRQHandler
+                0x00000230                TIMER3_IRQHandler
+                0x00000230                UART0_IRQHandler
+                0x00000230                UART1_IRQHandler
+                0x00000230                EINT2_IRQHandler
+                0x00000230                USBActivity_IRQHandler
+                0x00000230                IntDefaultHandler
+                0x00000230                PLL0_IRQHandler
+                0x00000230                I2C0_IRQHandler
+                0x00000230                I2C1_IRQHandler
+                0x00000230                SSP0_IRQHandler
+                0x00000230                I2S_IRQHandler
+                0x00000230                I2C2_IRQHandler
+                0x00000230                RTC_IRQHandler
+                0x00000230                TIMER0_IRQHandler
+                0x00000230                SPI_IRQHandler
+                0x00000230                RIT_IRQHandler
+                0x00000230                EINT1_IRQHandler
+                0x00000230                TIMER1_IRQHandler
+                0x00000230                UART2_IRQHandler
+                0x00000230                ADC_IRQHandler
+                0x00000230                SSP1_IRQHandler
+                0x00000230                USB_IRQHandler
+                0x00000230                BOD_IRQHandler
+                0x00000230                PLL1_IRQHandler
+                0x00000230                WDT_IRQHandler
+                0x00000230                PWM1_IRQHandler
+                0x00000230                QEI_IRQHandler
+                0x00000230                EINT0_IRQHandler
+                0x00000230                CAN_IRQHandler
+                0x00000230                DMA_IRQHandler
+                0x00000230                TIMER2_IRQHandler
+                0x00000230                UART3_IRQHandler
+                0x00000230                MCPWM_IRQHandler
+                0x00000230                ENET_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x00000238       0xc4 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.main     0x00000300       0x54 ./src/LCD-VF.o
+                0x00000300                main
+ .text.LCD_Config
+                0x00000354       0x40 ./src/LCD-VF.o
+                0x00000354                LCD_Config
+ .text.LCD_EnviarComando
+                0x00000394       0x40 ./src/LCD-VF.o
+                0x00000394                LCD_EnviarComando
+ .text.LCD_EnviarBit
+                0x000003d4       0xcc ./src/LCD-VF.o
+                0x000003d4                LCD_EnviarBit
+ .text.LCD_EnviarDato
+                0x000004a0       0x48 ./src/LCD-VF.o
+                0x000004a0                LCD_EnviarDato
+ .text.retardo  0x000004e8       0x28 ./src/LCD-VF.o
+                0x000004e8                retardo
+ .text.SystemInit
+                0x00000510       0xe4 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                0x00000510                SystemInit
+ .text.__weak_main
+                0x000005f4        0x4 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                0x000005f4                __weak_main
+                0x000005f4                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x000005f8       0x10 ./src/LCD-VF.o
+                0x00000608                . = ALIGN (0x4)
+
+.glue_7         0x00000608        0x0
+ .glue_7        0x00000608        0x0 linker stubs
+
+.glue_7t        0x00000608        0x0
+ .glue_7t       0x00000608        0x0 linker stubs
+
+.vfp11_veneer   0x00000608        0x0
+ .vfp11_veneer  0x00000608        0x0 linker stubs
+
+.v4_bx          0x00000608        0x0
+ .v4_bx         0x00000608        0x0 linker stubs
+
+.iplt           0x00000608        0x0
+ .iplt          0x00000608        0x0 ./src/LCD-VF.o
+
+.rel.dyn        0x00000608        0x0
+ .rel.iplt      0x00000608        0x0 ./src/LCD-VF.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000608                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000608                __exidx_end = .
+                0x00000608                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00000608
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x0 load address 0x00000608
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _edata = .
+
+.igot.plt       0x10000000        0x0 load address 0x00000608
+ .igot.plt      0x10000000        0x0 ./src/LCD-VF.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x10000000        0x0
+                0x10000000                _bss = .
+ *(.bss*)
+ *(COMMON)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000000        0x0
+                0x10000000                _noinit = .
+ *(.noinit*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff74b2                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(LCD-VF.axf elf32-littlearm)
+
+.debug_info     0x00000000      0xa03
+ .debug_info    0x00000000      0x459 ./src/LCD-VF.o
+ .debug_info    0x00000459      0x253 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x000006ac       0x3f ./src/crp.o
+ .debug_info    0x000006eb      0x318 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_abbrev   0x00000000      0x350
+ .debug_abbrev  0x00000000      0x13f ./src/LCD-VF.o
+ .debug_abbrev  0x0000013f       0xf5 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x00000234       0x36 ./src/crp.o
+ .debug_abbrev  0x0000026a       0xe6 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_aranges  0x00000000      0x108
+ .debug_aranges
+                0x00000000       0x48 ./src/LCD-VF.o
+ .debug_aranges
+                0x00000048       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x000000c8       0x18 ./src/crp.o
+ .debug_aranges
+                0x000000e0       0x28 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_ranges   0x00000000       0xc0
+ .debug_ranges  0x00000000       0x38 ./src/LCD-VF.o
+ .debug_ranges  0x00000038       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x000000a8       0x18 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_macro    0x00000000     0x25e1
+ .debug_macro   0x00000000       0xf0 ./src/LCD-VF.o
+ .debug_macro   0x000000f0      0x88c ./src/LCD-VF.o
+ .debug_macro   0x0000097c       0x1c ./src/LCD-VF.o
+ .debug_macro   0x00000998       0x2e ./src/LCD-VF.o
+ .debug_macro   0x000009c6       0x10 ./src/LCD-VF.o
+ .debug_macro   0x000009d6      0x12d ./src/LCD-VF.o
+ .debug_macro   0x00000b03      0x5b2 ./src/LCD-VF.o
+ .debug_macro   0x000010b5       0x18 ./src/LCD-VF.o
+ .debug_macro   0x000010cd      0x7af ./src/LCD-VF.o
+ .debug_macro   0x0000187c      0x2c7 ./src/LCD-VF.o
+ .debug_macro   0x00001b43       0x82 ./src/LCD-VF.o
+ .debug_macro   0x00001bc5       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00001be2       0x1a ./src/crp.o
+ .debug_macro   0x00001bfc       0x34 ./src/crp.o
+ .debug_macro   0x00001c30      0x12b C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x00001d5b      0x886 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_line     0x00000000      0x5b9
+ .debug_line    0x00000000      0x299 ./src/LCD-VF.o
+ .debug_line    0x00000299       0xd5 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x0000036e       0x78 ./src/crp.o
+ .debug_line    0x000003e6      0x1d3 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+
+.debug_str      0x00000000     0x8bf5
+ .debug_str     0x00000000     0x83e9 ./src/LCD-VF.o
+                               0x8484 (size before relaxing)
+ .debug_str     0x000083e9      0x1c2 ./src/cr_startup_lpc175x_6x.o
+                               0x26c6 (size before relaxing)
+ .debug_str     0x000085ab       0xe9 ./src/crp.o
+                               0x25de (size before relaxing)
+ .debug_str     0x00008694      0x561 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+                               0x8157 (size before relaxing)
+
+.comment        0x00000000       0xdc
+ .comment       0x00000000       0x6e ./src/LCD-VF.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/cr_startup_lpc175x_6x.o
+ .comment       0x0000006e       0x6f ./src/crp.o
+ .comment       0x0000006e       0x6f C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x0000006e       0x6e c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                                 0x6f (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./src/LCD-VF.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/crp.o
+ .ARM.attributes
+                0x00000099       0x33 C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x000000cc       0x33 c:/nxp/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000      0x290
+ .debug_frame   0x00000000       0xe4 ./src/LCD-VF.o
+ .debug_frame   0x000000e4      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x00000254       0x3c C:\Users\Caro Gatica\Documents\LPCXpresso_8.2.2_650\workspace-cmsis\CMSISv2p00_LPC17xx\Debug\libCMSISv2p00_LPC17xx.a(system_LPC17xx.o)
